@@ -6,15 +6,16 @@
 - Push code: git push code origin main
 ## 1 số câu lệnh
 1. git status: xem trạng thái file
-  1.1 File màu xanh: vùng staging
-  1.2 File mà đỏ: vùng ửoking dirrectory
+   - File màu xanh: vùng staging
+   - File mà đỏ: vùng ửoking dirrectory
 2. git log: kiểm tra danh sách commit
 ## Commit convention
-- <type>: <short_description> 
-  + type: *chore*: sửa nhỏ lẻ, xóa file k dùng, ...
-          *feat*: thêm tính năng, testcáe mới
-          *fix*: sửa lỗi
-  + <short_description>: mô tả commit
+ `<type>: <short_description>`
+- type:  
+    - chore : sửa nhỏ lẻ, xóa file k dùng, ...
+    -  feat : thêm tính năng, testcáe mới
+    - fix : sửa lỗi
+- short_description: mô tả commit
         
 # JavaScript
 ## Comment
