@@ -1,0 +1,6 @@
+a. vùng local
+b. vùng working directory
+c. vùng repository
+d. vùng staging
+e. vùng repository
+f. vùng repository
