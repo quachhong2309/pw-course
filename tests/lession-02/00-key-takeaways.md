@@ -2,7 +2,7 @@
 - Khởi tạo repo local: git init
 - Liên kết tới repo local: git remote add origin <url>
 - Thêm file vào staging: git add .
-- Commit file: git commit -m "<message>"
+- Commit file: git commit -m "message"
 - Push code: git push code origin main
 ## 1 số câu lệnh
 1. git status: xem trạng thái file
