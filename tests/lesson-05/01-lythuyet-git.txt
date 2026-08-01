@@ -1,0 +1,3 @@
+- git commit --amend -m "<message>": chỉnh sửa commit gần nhất
+- git restore --staged <file>: restore file cụ thể
+- git rest HEAD~1: reset 1 commit
